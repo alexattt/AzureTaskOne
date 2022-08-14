@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FetchApiApp", "FetchApiApp\FetchApiApp.csproj", "{6B1772C9-8B61-4331-92E1-3073E337003A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApi", "TaskApi\TaskApi.csproj", "{19995F7C-3ED5-4B0D-9261-4031C62A0F03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B1772C9-8B61-4331-92E1-3073E337003A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1772C9-8B61-4331-92E1-3073E337003A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1772C9-8B61-4331-92E1-3073E337003A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1772C9-8B61-4331-92E1-3073E337003A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19995F7C-3ED5-4B0D-9261-4031C62A0F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19995F7C-3ED5-4B0D-9261-4031C62A0F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19995F7C-3ED5-4B0D-9261-4031C62A0F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19995F7C-3ED5-4B0D-9261-4031C62A0F03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34D839FA-BA13-42E1-B81C-FF48691B03DC}
+	EndGlobalSection
+EndGlobal
